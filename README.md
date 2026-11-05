@@ -73,6 +73,28 @@ const tawfiq = {
 <tr>
 <td width="50%">
 
+### 🎨 StudioSpace
+
+A peer-to-peer creative workspace and production studio sharing platform.
+
+**Features**
+
+* 🏢 Browse studios across 5 categories
+* 🔐 Email/Password & Google Authentication
+* ➕ Create, update, and delete studio listings
+* 📸 Studio galleries, amenities, and reviews
+* 📅 Booking management with conflict prevention
+* 📊 User dashboard
+* 🌙 Light & Dark themes
+
+**Tech Stack:** Next.js, React, JavaScript, Tailwind CSS, Node.js, Express.js, MongoDB, Better Auth, JWT
+
+🔗 **[Live Website](https://studiospace-client-beta.vercel.app)**  
+💻 **[GitHub Repository](https://github.com/tawfiqb69/studiospace-client)**
+
+</td>
+<td width="50%">
+
 ### 📚 Book Vibe
 
 A modern book management application built with **Next.js**.
@@ -85,7 +107,9 @@ A modern book management application built with **Next.js**.
 * 🔄 State management
 
 </td>
+</tr>
 
+<tr>
 <td width="50%">
 
 ### 🏋️ FitLog
@@ -100,9 +124,6 @@ A workout planning and tracking application.
 * 📊 Track progress
 
 </td>
-</tr>
-
-<tr>
 <td width="50%">
 
 ### 💻 DevStack
@@ -117,8 +138,10 @@ A developer-focused web application built with **React & Tailwind CSS**.
 * 🧩 Component-based design
 
 </td>
+</tr>
 
-<td width="50%">
+<tr>
+<td colspan="2" align="center">
 
 ### 🔨 More Projects
 
