@@ -85,8 +85,8 @@ const tawfiq = {
 <p>
   <sub><b>AUTHENTICATION</b></sub><br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=betterauth,jwt&theme=dark">
-    <img src="https://skillicons.dev/icons?i=betterauth,jwt&theme=light" alt="Better Auth and JWT"/>
+    <img src="./better-auth.svg" width="40" height="40" alt="Better Auth"/>
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/jwt-io.png" width="40" height="40" alt="JWT"/>
   </picture>
 </p>
 <p>
