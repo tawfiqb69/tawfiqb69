@@ -11,7 +11,7 @@ Junior Full-Stack Web Developer
 🧑‍💻 About Me
 I'm a Junior Full-Stack Web Developer from Bangladesh, passionate about building responsive, user-friendly, and functional web applications.
 I enjoy turning ideas into real-world applications, solving problems, and continuously improving my development skills.
-```
+
 const tawfiq = {
   name: "SM Tawfiq",
   role: "Junior Full-Stack Web Developer",
@@ -35,7 +35,7 @@ const tawfiq = {
 
   mindset: "Learn → Build → Improve → Repeat"
 };
-```
+
 ---
 ⚡ Technical Skills
 Languages
