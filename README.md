@@ -1,124 +1,207 @@
-<p align="center"> <img src="./GitHubBanner.jpg" alt="SM Tawfiq GitHub Banner" width="100%"/> </p>
+<p align="center">
+  <img src="./GitHubBanner.jpg" alt="SM Tawfiq GitHub banner" width="100%"/>
+</p>
+
 <div align="center">
-👋 Hi, I'm SM Tawfiq
-Junior Full-Stack Web Developer
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Junior+Full-Stack+Web+Developer;JavaScript+%7C+TypeScript+Developer;React+%7C+Next.js+Developer;Building+Real-World+Web+Applications+%F0%9F%9A%80" alt="Typing SVG"/>
-<p> <em>Turning ideas into practical web experiences, one project at a time.</em> </p>
-<p> <a href="https://github.com/tawfiqb69"> <img src="https://img.shields.io/github/followers/tawfiqb69?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers"/> </a> <a href="https://github.com/tawfiqb69?tab=repositories"> <img src="https://img.shields.io/github/stars/tawfiqb69?label=Stars&style=for-the-badge&logo=github" alt="GitHub Stars"/> </a> </p>
-<p> <a href="mailto:sktwfqb69@gmail.com">Email</a> • <a href="https://www.linkedin.com/in/sm-tawfiq/">LinkedIn</a> • <a href="https://github.com/tawfiqb69">GitHub</a> </p>
+<h1>SM Tawfiq</h1>
+<h3>Junior Full-Stack Web Developer</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=20&amp;pause=1200&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=620&amp;height=36&amp;lines=Junior+Full-Stack+Web+Developer;JavaScript+%7C+TypeScript;React+%7C+Next.js;Node.js+%7C+Express.js+%7C+MongoDB;Building+real-world+web+applications">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=20&amp;pause=1200&amp;color=0969DA&amp;center=true&amp;vCenter=true&amp;width=620&amp;height=36&amp;lines=Junior+Full-Stack+Web+Developer;JavaScript+%7C+TypeScript;React+%7C+Next.js;Node.js+%7C+Express.js+%7C+MongoDB;Building+real-world+web+applications" alt="Animated text: Junior Full-Stack Web Developer, JavaScript and TypeScript, React and Next.js, building real-world web applications"/>
+</picture>
+<p><em>Turning ideas into practical web experiences, one project at a time.</em></p>
+<p>
+  <a href="mailto:sktwfqb69@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=gmail&amp;theme=dark"><img src="https://skillicons.dev/icons?i=gmail&amp;theme=light" alt="Email SM Tawfiq via Gmail" height="44"/></picture></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/tawfiqb69"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=github&amp;theme=dark"><img src="https://skillicons.dev/icons?i=github&amp;theme=light" alt="SM Tawfiq on GitHub" height="44"/></picture></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sm-tawfiq/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linkedin&amp;theme=dark"><img src="https://skillicons.dev/icons?i=linkedin&amp;theme=light" alt="SM Tawfiq on LinkedIn" height="44"/></picture></a>
+</p>
+<p>
+  <a href="#about-me">About</a> &nbsp;·&nbsp;
+  <a href="#technical-skills">Skills</a> &nbsp;·&nbsp;
+  <a href="#featured-projects">Projects</a> &nbsp;·&nbsp;
+  <a href="#github-activity">Activity</a> &nbsp;·&nbsp;
+  <a href="#lets-connect">Contact</a>
+</p>
 </div>
 
-🧑‍💻 About Me
-I'm a Junior Full-Stack Web Developer from Bangladesh, passionate about building responsive, user-friendly, and functional web applications.
-I enjoy turning ideas into real-world applications, solving problems, and continuously improving my development skills.
+## About Me
 
+I'm a Junior Full-Stack Web Developer from Bangladesh. I build responsive, user-friendly web applications with the JavaScript ecosystem, from REST APIs and authentication to the interfaces people actually use.
+
+I enjoy turning ideas into real-world applications, solving problems, and continuously improving my skills.
+
+```js
 const tawfiq = {
   name: "SM Tawfiq",
   role: "Junior Full-Stack Web Developer",
   location: "Dhaka, Bangladesh",
 
-  skills: [
-    "JavaScript",
-    "TypeScript",
-    "React",
-    "Next.js",
-    "Node.js",
-    "Express.js",
-    "MongoDB"
-  ],
+  stack: {
+    languages: ["JavaScript", "TypeScript"],
+    frontend: ["React", "Next.js", "Tailwind CSS"],
+    backend: ["Node.js", "Express.js", "MongoDB"],
+    auth: ["Better Auth"],
+    tools: ["Git", "GitHub"]
+  },
 
   focus: [
-    "Full-Stack Development",
+    "Full-Stack Web Development",
     "REST API Development",
-    "Modern Web Applications"
+    "Modern Web Applications",
+    "Authentication",
+    "Practical Real-World Projects"
   ],
 
   mindset: "Learn → Build → Improve → Repeat"
 };
+```
 
+## Technical Skills
 
-⚡ Technical Skills
-Languages
-<p> <img src="https://skillicons.dev/icons?i=js,ts" alt="JavaScript and TypeScript"/> </p>
-Frontend Development
-<p> <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs" alt="Frontend Technologies"/> </p>
-Backend Development & Database
-<p> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend Technologies"/> </p>
-Authentication
-<p> <img src="https://img.shields.io/badge/Better_Auth-000000?style=for-the-badge&logo=auth0&logoColor=white" alt="Better Auth"/> </p>
-Tools & Development Environment
-<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" alt="Development Tools"/> </p>
-
-🚀 Featured Projects
-1. 🎨 StudioSpace
-A Full-Stack Creative Studio Discovery & Booking Platform
-A platform where users can discover creative workspaces and book studios across different categories.
-Key Features
-Browse studios across five categories.
-Email/Password and Google authentication.
-Create, update, and delete studio listings.
-Studio galleries, amenities, and reviews.
-Booking management with booking conflict prevention.
-Personalized user dashboard.
-Light and Dark theme support.
-Tech Stack: Next.js, React, JavaScript, Tailwind CSS, Node.js, Express.js, MongoDB, Better Auth, JWT.
-<p> <a href="https://studiospace-client-beta.vercel.app/"> <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/> </a> <a href="https://github.com/tawfiqb69/studiospace-client"> <img src="https://img.shields.io/badge/GitHub_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/> </a> </p>
-
-2. 🛒 Bazar-Dor
-A Full-Stack Daily Essentials Price Comparison Platform
-A platform designed for Bangladeshi users to compare the prices of daily essential products across different markets.
-Key Features
-Compare daily essential product prices.
-Explore products and market information.
-User-friendly browsing experience.
-Responsive interface for different devices.
-Focus: Full-Stack Development, Product Data Management, and Practical Problem Solving.
-<p> <a href="https://b14-a07-bajar-dor.vercel.app/"> <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/> </a> <a href="https://github.com/tawfiqb69/b14-a07-bajar-dor"> <img src="https://img.shields.io/badge/GitHub_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/> </a> </p>
-
-3. 🌍 Wanderlust
-A Travel-Focused Web Application
-A web application focused on travel and exploring destinations.
-Focus
-Travel-oriented user experience.
-Responsive web interface.
-Modern frontend development.
-Interactive web application features.
-<p> <a href="https://wanderlust-client-lac.vercel.app/"> <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/> </a> <a href="https://github.com/tawfiqb69/wanderlust-client"> <img src="https://img.shields.io/badge/GitHub_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/> </a> </p>
-
-4. 🏋️ FitLog
-A Workout Planning & Tracking Application
-A fitness application designed to help users organize workout routines and track their fitness activities.
-Key Features
-Browse workout exercises.
-Create personal workout plans.
-Save favorite workouts.
-Track workout progress.
-Focus: Fitness Application Development, UI Design, and Application State Management.
-<p> <a href="https://tawfiqs-fit-log.vercel.app/"> <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/> </a> <a href="https://github.com/tawfiqb69/B14-A6-Fit-Log"> <img src="https://img.shields.io/badge/GitHub_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"/> </a> </p>
-
-📊 GitHub Statistics
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tawfiqb69&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Tawfiq's GitHub Stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawfiqb69&layout=compact&hide_border=true&theme=transparent" alt="Top Languages"/>
+<p>
+  <sub><b>LANGUAGES</b></sub><br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts&amp;theme=dark">
+    <img src="https://skillicons.dev/icons?i=js,ts&amp;theme=light" alt="JavaScript and TypeScript"/>
+  </picture>
+</p>
+<p>
+  <sub><b>FRONTEND DEVELOPMENT</b></sub><br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs&amp;theme=dark">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs&amp;theme=light" alt="HTML, CSS, Tailwind CSS, React and Next.js"/>
+  </picture>
+</p>
+<p>
+  <sub><b>BACKEND DEVELOPMENT &amp; DATABASE</b></sub><br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,mongodb&amp;theme=dark">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&amp;theme=light" alt="Node.js, Express.js and MongoDB"/>
+  </picture>
+</p>
+<p>
+  <sub><b>AUTHENTICATION</b></sub><br/>
+  <img src="https://img.shields.io/badge/Better_Auth-57606A?style=flat-square" alt="Better Auth"/>
+  <img src="https://img.shields.io/badge/JWT-57606A?style=flat-square" alt="JSON Web Tokens"/>
+</p>
+<p>
+  <sub><b>TOOLS &amp; DEVELOPMENT ENVIRONMENT</b></sub><br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vscode,npm&amp;theme=dark">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,npm&amp;theme=light" alt="Git, GitHub, VS Code and npm"/>
+  </picture>
+</p>
 </div>
 
-🔥 Contribution Streak
+## Featured Projects
+
+Four deployed applications. Each one links to a live demo and its source code.
+
+<table width="100%">
+<tr>
+<td valign="top">
+<h3><a href="https://studiospace-client-beta.vercel.app">StudioSpace</a></h3>
+<p><strong>A full-stack creative studio discovery and booking platform.</strong></p>
+<ul>
+<li>Browse studios across five categories</li>
+<li>Email/password and Google authentication</li>
+<li>Create, update, and delete studio listings</li>
+<li>Studio galleries, amenities, and reviews</li>
+<li>Booking management with booking-conflict prevention</li>
+<li>Personalized user dashboard</li>
+<li>Light and dark theme support</li>
+</ul>
+<p><code>Next.js</code> <code>React</code> <code>JavaScript</code> <code>Tailwind CSS</code> <code>Node.js</code> <code>Express.js</code> <code>MongoDB</code> <code>Better Auth</code> <code>JWT</code></p>
+<p>
+<a href="https://studiospace-client-beta.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-0969DA?style=flat-square" alt="StudioSpace live demo"/></a>
+<a href="https://github.com/tawfiqb69/studiospace-client"><img src="https://img.shields.io/badge/Source_Code-57606A?style=flat-square" alt="StudioSpace source code on GitHub"/></a>
+</p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td valign="top">
+<h3><a href="https://b14-a07-bajar-dor.vercel.app/">Bazar-Dor</a></h3>
+<p><strong>A full-stack platform that helps Bangladeshi users compare daily essential product prices across different markets.</strong></p>
+<ul>
+<li>Compare daily essential product prices</li>
+<li>Explore products and market information</li>
+<li>Responsive interface for different devices</li>
+</ul>
+<p>
+<a href="https://b14-a07-bajar-dor.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-0969DA?style=flat-square" alt="Bazar-Dor live demo"/></a>
+<a href="https://github.com/tawfiqb69/b14-a07-bajar-dor"><img src="https://img.shields.io/badge/Source_Code-57606A?style=flat-square" alt="Bazar-Dor source code on GitHub"/></a>
+</p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://wanderlust-client-lac.vercel.app">Wanderlust</a></h3>
+<p><strong>A travel-focused web application for exploring destinations.</strong></p>
+<ul>
+<li>Travel-oriented user experience</li>
+<li>Responsive web interface</li>
+</ul>
+<p>
+<a href="https://wanderlust-client-lac.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-0969DA?style=flat-square" alt="Wanderlust live demo"/></a>
+<a href="https://github.com/tawfiqb69/wanderlust-client"><img src="https://img.shields.io/badge/Source_Code-57606A?style=flat-square" alt="Wanderlust source code on GitHub"/></a>
+</p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://tawfiqs-fit-log.vercel.app">FitLog</a></h3>
+<p><strong>A workout planning and tracking application.</strong></p>
+<ul>
+<li>Browse workout exercises</li>
+<li>Create personal workout plans</li>
+<li>Save favorite workouts</li>
+<li>Track workout progress</li>
+</ul>
+<p>
+<a href="https://tawfiqs-fit-log.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-0969DA?style=flat-square" alt="FitLog live demo"/></a>
+<a href="https://github.com/tawfiqb69/B14-A6-Fit-Log"><img src="https://img.shields.io/badge/Source_Code-57606A?style=flat-square" alt="FitLog source code on GitHub"/></a>
+</p>
+</td>
+</tr>
+</table>
+
+## GitHub Activity
+
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=tawfiqb69&hide_border=true&theme=transparent" alt="GitHub Contribution Streak"/>
+<p><sub><b>OVERVIEW &amp; TOP LANGUAGES</b></sub></p>
+<p>
+  <img src="./metrics.overview.svg" alt="GitHub overview for tawfiqb69, generated by GitHub Actions" width="49%"/>
+  <img src="./metrics.languages.svg" alt="Most used programming languages across tawfiqb69's repositories, generated by GitHub Actions" width="49%"/>
+</p>
+<p><sub><b>CONTRIBUTION STREAK</b></sub></p>
+<!-- To make this card more reliable, self-host Streak Stats and replace streak-stats.demolab.com in BOTH URLs below with your own domain (see setup guide). -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=tawfiqb69&amp;hide_border=true&amp;theme=dark">
+  <img src="https://streak-stats.demolab.com/?user=tawfiqb69&amp;hide_border=true&amp;theme=default" alt="GitHub contribution streak for tawfiqb69"/>
+</picture>
+<p><sub><b>CONTRIBUTION SNAKE</b></sub></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tawfiqb69/tawfiqb69/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/tawfiqb69/tawfiqb69/output/github-contribution-grid-snake.svg" alt="Animated snake eating the GitHub contribution graph of tawfiqb69"/>
+</picture>
 </div>
 
-🐍 Contribution Activity
-<div align="center">
-<img src="https://raw.githubusercontent.com/tawfiqb69/tawfiqb69/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</div>
+## Let's Connect
 
-🤝 Let's Connect
 I'm always interested in connecting with developers, collaborating on projects, and exploring new opportunities.
-<div align="center">
-<a href="https://github.com/tawfiqb69"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="https://www.linkedin.com/in/sm-tawfiq/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:sktwfqb69@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a>
-</div>
 
-<div align="center">
-💡 Learn. Build. Improve. Repeat.
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
-</div>
+<p align="center">
+  <a href="mailto:sktwfqb69@gmail.com">sktwfqb69@gmail.com</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/sm-tawfiq/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://github.com/tawfiqb69">GitHub</a> &nbsp;·&nbsp;
+  <a href="https://sm-tawfiq-portfolio.vercel.app">Portfolio</a>
+</p>
+
+<p align="center"><em>Learn. Build. Improve. Repeat.</em></p>
