@@ -84,10 +84,8 @@ const tawfiq = {
 </p>
 <p>
   <sub><b>AUTHENTICATION</b></sub><br/>
-  <picture>
-    <img src="./better-auth.svg" width="40" height="40" alt="Better Auth"/>
-    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/jwt-io.png" width="40" height="40" alt="JWT"/>
-  </picture>
+  <img src="https://img.shields.io/badge/Better_Auth-57606A?style=flat-square" alt="Better Auth"/>
+  <img src="https://img.shields.io/badge/JWT-57606A?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
 </p>
 <p>
   <sub><b>TOOLS &amp; DEVELOPMENT ENVIRONMENT</b></sub><br/>
